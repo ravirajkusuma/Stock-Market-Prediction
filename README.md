@@ -1,7 +1,9 @@
 📈 Stock Market Prediction System
 This project is a machine learning-based system that predicts future stock prices using historical data. It helps users understand market trends and make informed decisions.
-🔍 Overview
+
+Overview
 The system uses past stock data to forecast future prices using models like LSTM (Long Short-Term Memory) or Linear Regression. It can visualize trends and provide insights into stock behavior.
+
 🛠️ Technologies Used
 - Python
 - Pandas & NumPy
